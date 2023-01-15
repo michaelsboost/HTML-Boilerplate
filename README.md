@@ -1,7 +1,7 @@
 HTML Boilerplate
 ===================
 
-The HTML Boilerplate is a simple application that comes prebuilt with the requirements for a website that is [W3C Valid](https://validator.w3.org/) and is [SEO compliant](https://www.seobility.net/en/seocheck/)! Try it today at [michaelsboost.com/HTML-Boilerplate](https://michaelsboost.github.io/HTML-Boilerplate/)
+The HTML Boilerplate Template is a simple application that comes prebuilt with the requirements for a website that is [W3C Valid](https://validator.w3.org/) and is [SEO compliant](https://www.seobility.net/en/seocheck/)! Try it today at [michaelsboost.com/HTML-Boilerplate](https://michaelsboost.github.io/HTML-Boilerplate/)
 
 ![](https://raw.githubusercontent.com/michaelsboost/HTML-Boilerplate/gh-pages/imgs/header.svg)
 
@@ -21,7 +21,6 @@ Tech
 HTML Boilerplate uses a number of open source projects to work properly:
 
 * [Normalize](https://github.com/necolas/normalize.css) - CSS reset library
-* [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Easy way to save files
 
 Development
 -------------
